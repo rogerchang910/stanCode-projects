@@ -1,8 +1,12 @@
 ## *stanCode* projects
 Welcome!\
-This repository holds my programming projects done during the period of stanCode SC101 course.
+This repository holds my programming projects done during the period of stanCode courses.
 
 ## Project Source Codes:
+* [Find DNA complement](https://github.com/rogerchang910/stanCode-projects/tree/main/stanCode%20projects/find_DNA_complement)
+  * python semantics & syntax & string manipulation
+* [DNA Similarity Comparison](https://github.com/rogerchang910/stanCode-projects/tree/main/stanCode%20projects/DNA_similarity_comparison)
+  * python semantics & syntax & string manipulation
 * [Hangman Game](https://github.com/rogerchang910/stanCode-projects/tree/main/stanCode%20projects/hangman_game)
   * python semantics & syntax & data structure
 * [Image Blur Application](https://github.com/rogerchang910/stanCode-projects/tree/main/stanCode%20projects/image_blur_application)
