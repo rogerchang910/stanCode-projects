@@ -7,6 +7,8 @@ This repository holds my programming projects done during the period of stanCode
   * python semantics & syntax & string manipulation
 * [DNA Similarity Comparison](https://github.com/rogerchang910/stanCode-projects/tree/main/stanCode%20projects/DNA_similarity_comparison)
   * python semantics & syntax & string manipulation
+* [Weather Master](https://github.com/rogerchang910/stanCode-projects/tree/main/stanCode%20projects/weather_master)
+  * python semantics & syntax & data structure
 * [Hangman Game](https://github.com/rogerchang910/stanCode-projects/tree/main/stanCode%20projects/hangman_game)
   * python semantics & syntax & data structure
 * [Image Blur Application](https://github.com/rogerchang910/stanCode-projects/tree/main/stanCode%20projects/image_blur_application)
